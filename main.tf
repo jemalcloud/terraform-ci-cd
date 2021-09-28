@@ -15,7 +15,7 @@ terraform {
     organization = "leenacloud"
 
     workspaces {
-      name = "demo-github-actions"
+      name = "terraform-cicd-workflow"
     }
   }
 }
